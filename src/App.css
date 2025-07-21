@@ -1,0 +1,4 @@
+@import "tailwindcss";
+.nav-link {
+  @apply text-white hover:text-purple-400 transition-all duration-200 text-2xl md:text-base;
+}
