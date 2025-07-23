@@ -1,6 +1,6 @@
 # Ahiska Community
 
-Link to the website [Ahiska-Community](https://ahiska-community-d0a5.onrender.com)
+Link to the website [Ahiska-Community](https://ahiska-community-32wv.onrender.com)
 
 ## What the website does?
 
